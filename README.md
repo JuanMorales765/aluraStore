@@ -1,7 +1,7 @@
 # Challenge 1 
 ## Análisis de balance de tiendas
 
-### [Código](AluraStore/challenge1-data-science-latam-main/AluraStoreLatam.ipynb)
+### [Código alura store](AluraStore/challenge1-data-science-latam-main/AluraStoreLatam.ipynb)
 
 ## Uso del proyecto
 
