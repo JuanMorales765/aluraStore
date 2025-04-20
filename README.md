@@ -1,4 +1,4 @@
-# Challenge 1 
+# Challenge Alura Store
 ## Análisis de balance de tiendas
 
 ### [Informe balance tiendas](https://github.com/JuanMorales765/aluraStore/blob/main/Informe.md)
