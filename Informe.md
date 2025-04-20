@@ -82,11 +82,11 @@ En cuanto a la satisfacción de los clientes, es necesario capacitar al personal
 ##### [Python para Data Science: trabajar con funciones, estructuras de datos y excepciones](https://app.aluracursos.com/course/python-data-science-trabajar-funciones-estructuras-datos-excepciones)
 ##### [Principiante en Programación G8 - ONE](https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo8-one)
 ##### [Desarrollo Personal G8 - ONE](https://app.aluracursos.com/formacion-desarrollo-personal-grupo8-one)
-La documentación para elavorar este trabajo como las bases de datos e información es brindado por Aluralatam.
 
-Informe creado por:
-Juan David Morales Fonnegra
-Medellín, Antioquia, Colombia
+
+> Informe creado por:
+> Juan David Morales Fonnegra
+> Medellín, Antioquia, Colombia
 
 
 
