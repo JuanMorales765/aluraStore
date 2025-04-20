@@ -56,12 +56,12 @@ A partir de esta imagen, se puede observar la distribución de las tiendas segú
 En base a esta imagen se puede observar la distribución de las tiendas según los datos de las ventas de la tienda 2.
 
 ![Imagen8](AluraStore/challenge1-data-science-latam-main/graficas/Map3.png)
-##### Fig.7.Propia (La imagen muestra la ubicación de la tienda 3)
+##### Fig.8.Propia (La imagen muestra la ubicación de la tienda 3)
 En base a esta imagen se puede observar la distribución de las tiendas según los datos de las ventas de la tienda 3.
 
 
 ![Imagen9](AluraStore/challenge1-data-science-latam-main/graficas/Map4.png)
-##### Fig.7.Propia (La imagen muestra la ubicación de la tienda 4)
+##### Fig.9.Propia (La imagen muestra la ubicación de la tienda 4)
 En base a esta imagen se puede observar la distribución de las tiendas según los datos de las ventas de la tienda 4.
 
 ## Conclución
