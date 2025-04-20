@@ -54,3 +54,9 @@
 - Por colab:
   > El código está implementado para su uso en Colab. Solo ejecuta el archivo si la carpeta se guarda directamente en el Drive; de lo contrario, deberás buscar la carpeta "Alura" y copiar la dirección.
 
+# Referencias
+##### [Python para Data Science: primeros pasos](https://app.aluracursos.com/course/python-data-science-primeros-pasos)
+##### [Python para Data Science: trabajar con funciones, estructuras de datos y excepciones](https://app.aluracursos.com/course/python-data-science-trabajar-funciones-estructuras-datos-excepciones)
+##### [Principiante en Programación G8 - ONE](https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo8-one)
+##### [Desarrollo Personal G8 - ONE](https://app.aluracursos.com/formacion-desarrollo-personal-grupo8-one)
+
