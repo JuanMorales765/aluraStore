@@ -1,7 +1,7 @@
 # Challenge 1 
 ## Análisis de balance de tiendas
 
-### [Informe balance tiendas](https://github.com/JuanMorales765/aluraStore.git/aluraStore/Informe.md)
+### [Informe balance tiendas](https://github.com/JuanMorales765/aluraStore/blob/main/Informe.md)
 
 ### [Código alura store](AluraStore/challenge1-data-science-latam-main/AluraStoreLatam.ipynb)
 
