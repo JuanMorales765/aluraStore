@@ -60,3 +60,6 @@
 ##### [Principiante en Programación G8 - ONE](https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo8-one)
 ##### [Desarrollo Personal G8 - ONE](https://app.aluracursos.com/formacion-desarrollo-personal-grupo8-one)
 
+> Juan David Morales Fonnegra
+> Medellín, Antioquia, Colombia
+
