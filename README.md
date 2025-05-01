@@ -3,7 +3,7 @@
 
 ### [Informe balance tiendas](https://github.com/JuanMorales765/aluraStore/blob/main/Informe.md)
 
-### [Código alura store](AluraStore/challenge1-data-science-latam-main/AluraStoreLatam.ipynb)
+### [Código alura store](https://github.com/JuanMorales765/aluraStore/blob/main/AluraStore/challenge1-data-science-latam-main/AluraStoreLatam.ipynb)
 
 
 ## Uso del proyecto
