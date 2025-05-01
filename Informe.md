@@ -9,7 +9,7 @@ El objetivo es identificar la tienda con los balances más bajos para recomendar
 
 ---
 
-![Imagen1](https://github.com/JuanMorales765/aluraStore/tree/main/AluraStore/challenge1-data-science-latam-main/graficas/ingresosTotales.png)
+![Imagen1](AluraStore/challenge1-data-science-latam-main/graficas/ingresosTotales.png)
 ##### Fig.1.Propia (La imagen muestra el total de los ingresos de las diversas tiendas con un porcentaje basado en el 100%)
 
 Como se puede observar en la imagen, la tienda con menores ingresos es la número cuatro, con un total de `$1,038,375.70`. Para este análisis, sería la tienda opcional para que el señor Juan realice sus ventas. Para obtener estos resultados, se sumaron los valores de la columna "Precios" con el fin de calcular los ingresos de todas las tiendas.
